@@ -7,10 +7,6 @@ package imageviewer.control;
 
 import imageviewer.view.ImageDisplay;
 
-/**
- *
- * @author Universidad
- */
 public class NextImageCommand implements Command{
     private final ImageDisplay imageDisplay;
 

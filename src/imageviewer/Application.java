@@ -17,10 +17,6 @@ import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 
-/**
- *
- * @author Universidad
- */
 public class Application extends JFrame{
 
     private final Map<String,Command> commands = new HashMap<>();

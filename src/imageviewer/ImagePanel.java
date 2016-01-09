@@ -6,10 +6,6 @@ import java.awt.Graphics;
 import java.awt.image.BufferedImage;
 import javax.swing.JPanel;
 
-/**
- *
- * @author Universidad
- */
 public class ImagePanel extends JPanel implements ImageDisplay{
     private Image image;
 
